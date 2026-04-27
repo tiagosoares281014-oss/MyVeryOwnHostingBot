@@ -26,7 +26,7 @@
       "enabled": true,
       "sneak": true
     },
-    "chat-messages": {Je suis un bot
+    "chat-messages": {
       "enabled": true,
       "repeat": true,
       "repeat-delay": 120,
