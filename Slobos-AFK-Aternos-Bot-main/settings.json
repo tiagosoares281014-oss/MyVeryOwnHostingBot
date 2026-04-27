@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "thesmp-bcfB.aternos.me:39822",
+    "port": 39822,
+    "version": "26.1.2 (49)",
     "try-creative": false
   },
   "position": {
@@ -20,13 +20,13 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": ""
     },
     "anti-afk": {
       "enabled": true,
       "sneak": true
     },
-    "chat-messages": {
+    "chat-messages": {Je suis un bot
       "enabled": true,
       "repeat": true,
       "repeat-delay": 120,
